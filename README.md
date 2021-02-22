@@ -2,8 +2,7 @@
 
 CNN-based small bowel lesion classification and XAI-based localization
 
-- DL Platform conversion Tensorflow to Pytorch
-- Code modularization for usability
+- DL platform conversion (to Pytorch) and Code modularization
 - Including experiments for master's thesis (Yunseob Hwang - Convolutional Neural Network Based Small Bowel Lesion Detection in Capsule Endoscopy, POSTECH, 2021)
 
 # Thesis
