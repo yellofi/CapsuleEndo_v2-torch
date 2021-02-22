@@ -10,17 +10,15 @@ CNN-based small bowel lesion classification and XAI-based localization
 # *Thesis
 
 ## Chapter 2: Small Bowel Lesion Detection using CNNs
-
+- Fundamental Issues in development of SBCE classifiers
 <p align="center">
      <img alt="2_1" src="./images/2_cls_imbal_and_hierachical_labeling.png"
           width=80% />
 </p>
 <br>
-
+- Sampling Methods for Class Imbalance
 <p align="center">
-     
      <img alt="SAMPLING" src="./images/2_sampling_methods_for_cls imbal.jpg"
           width=80% />
-     <b> Sampling Methods for Class Imbalance</b> <br>
 </p>
 <br>
