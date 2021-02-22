@@ -21,14 +21,14 @@ MSG-GAN was utilized to synthesize fake SBCE samples (https://github.com/akanima
 <p align="center">
      <b> GAN training lapse </b><br>
      <img alt="GAN_training" src="./images/4_GAN_training_lapse.gif"
-          width=80% />
+          width=70% />
 </p>
 <br>
 
 <p align="center">
      <b> GAN synthesized samples </b><br>
      <img alt="GAN_result" src="./images/4_GAN_synthesized_samples.jpg"
-          width=80% />
+          width=70% />
 </p>
 
 
