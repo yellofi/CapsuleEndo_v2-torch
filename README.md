@@ -40,7 +40,7 @@ MSG-GAN was utilized to synthesize fake SBCE samples (https://github.com/akanima
 - Related Work: Closing the Human-Data-AI Loop (https://sites.google.com/lunit.io/lunit-research-engineer/%EB%AC%B4%EC%97%87%EC%9D%84-%EB%A7%8C%EB%93%A4%EA%B2%8C-%EB%90%98%EB%82%98%EC%9A%94?authuser=0)
 
 <p align="center">
-     <img alt="AI_feedback" src="./images/AI_feedback.png.png"
+     <img alt="AI_feedback" src="./images/AI_feedback.png"
           width=80% />
 </p>
 <br>
