@@ -1,0 +1,3 @@
+﻿index,video,# of frames,video length,save frame time,load frame time,pred. time,# of positive frames,# of clip frames,clip length,Grad-CAM time,process and save time,total time
+1,김 민경 (19998616) 31 Aug 18_1.mpg,7991,26:38.200,01:16.963,01:34.877,00:11.034,116,573,01:54.599,00:07.288,00:12.257,03:22.419
+2,박 명자 (28372171) 10 Dec 18_1.mpg,15355,51:11.000,02:28.793,03:05.760,00:21.914,325,1669,05:33.800,00:21.071,00:35.556,06:53.094

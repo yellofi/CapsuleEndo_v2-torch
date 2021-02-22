@@ -1,0 +1,9 @@
+﻿model,negative,depressed,depressed,depressed,hemorrhagic,hemorrhagic,hemorrhagic
+,negative,erosion,ulcer,stricture,red_spot,angioectasia,active_bleeding
+-,96.86,91.37,100.0,99.07,95.68,89.62,96.15
+flip (r),98.14,86.33,100.0,99.07,95.68,84.15,88.46
+rotate (r),97.57,94.24,100.0,99.07,96.22,95.08,92.31
+blur (b),96.29,89.21,100.0,97.22,97.3,85.25,92.31
+f + r,96.73,92.09,100.0,98.15,97.3,93.99,100.0
+f + r + b,98.02,94.24,100.0,100.0,95.68,93.44,92.31
+sv control (sv),97.7,94.96,100.0,99.07,98.38,94.54,100.0
