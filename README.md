@@ -18,8 +18,9 @@ CNN-based small bowel lesion classification and XAI-based localization
 <br>
 
 <p align="center">
-     <b> Sampling Methods for Class Imbalance</b> <br>
+     
      <img alt="SAMPLING" src="./images/2_sampling_methods_for_cls imbal.jpg"
           width=80% />
+     <b> Sampling Methods for Class Imbalance</b> <br>
 </p>
 <br>
