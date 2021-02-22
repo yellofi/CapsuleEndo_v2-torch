@@ -12,7 +12,6 @@ CNN-based small bowel lesion classification and XAI-based localization
 ## Chapter 2: Small Bowel Lesion Detection using CNNs
 
 <p align="center">
-     <b> Class Imbalance and Hierachical Labeling</b> <br>
      <img alt="2_1" src="./images/2_cls_imbal_and_hierachical_labeling.png"
           width=80% />
 </p>
