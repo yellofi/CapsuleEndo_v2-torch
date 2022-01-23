@@ -14,7 +14,7 @@ CNN-based small bowel lesion classification and XAI-based localization
 
 - Chapter 4
 
-MSG-GAN was utilized to synthesize fake SBCE samples (https://github.com/akanimax/BMSG-GAN)
+The MSG-GAN was utilized to synthesize fake SBCE samples (https://github.com/akanimax/BMSG-GAN)
 
 <p align="center">
      <b> GAN training lapse </b><br>
