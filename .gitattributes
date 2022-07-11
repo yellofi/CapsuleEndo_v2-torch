@@ -1,2 +1,2 @@
 developments/** linguist-vendored
-*.py linguist-vendored=false
+*.py linguist-detectable=true
